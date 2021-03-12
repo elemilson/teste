@@ -1,0 +1,160 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES", TV MEGA CINE
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w591418767.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zeWelWM.png" group-title="FILMES E SERIES", CINE LIVRE
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BGigxZx.png" group-title="FILMES E SERIES", CINE LIVRE 2
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",MEGAPIX
+http://69.162.89.182:8081/live/tvfechada_megapix/chunks.m3u8?nimblesessionid=4241836&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjEgNzowODo1NCBQTSZoYXNoX3ZhbHVlPS9mb2tUR3pZNkpYWGY3MmhuM0RnYUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",ANIMAL PLANET
+http://b5.vc:80//live/9JJCdQuZpt/fireurl.co/71776.ts
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",ANIMAL PLANET
+http://dnsx.co:80//live/9JJCdQuZpt/fireurl.co/71776.ts
+
+
+
+
+                           CANAIS ABERTOS E FECHADOS
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/s320/Screenshot_2019-06-18-18-21-12.png" group-title="CANAIS ABERTOS E FECHADOS", SBT
+https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/chunklist_w301800377.m3u
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS E FECHADOS", REDE MANCHETE HD
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w967550760.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2020/11/Screenshot_2019-06-18-20-19-51-138x93.png" group-title="CANAIS ABERTOS E FECHADOS", TV GAZETA
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w1812625061.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2020/11/Screenshot_2019-06-18-20-19-51-138x93.png" group-title="CANAIS ABERTOS E FECHADOS", TV GAZETA ALT
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/b1/fc/6e/b1fc6e2b-ef04-7794-5435-67c8572a4617/source/512x512bb.jpg" group-title="CANAIS ABERTOS E FECHADOS", TV FUTURO RN
+https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w583255045.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="CANAIS ABERTOS E FECHADOS",CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/YXJnZW50aW5hc3RyZWFtLmNvbS5jYW5hbDI5cXVpbG1lc29rX3NjcmVlbl8wXzE1NDM3NjExOTlfMDU5/screen-0.jpg?fakeurl=1&type=.jpg" group-title="CANAIS ABERTOS E FECHADOS",CANAL 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1913464202.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="CANAIS ABERTOS E FECHADOS", BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w953330835.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="CANAIS ABERTOS E FECHADOS", BAND ALT
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2037631118.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS ABERTOS E FECHADOS", TV RECORD TROPICAL  
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS E FECHADOS", TV RECORD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS E FECHADOS", TV RECORD NEWS
+http://rec2.distv.net:80/plinio/123/28
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS E FECHADOS", REDETV HD
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS E FECHADOS", TV BRASIL
+https://video-rvd-pr-gw-1.rnp.br/live/ocp(t(FmMO4VJKU6M)r(fVR9ug)a(sQzp7Q)p(d(2xc)k(q8Q)m(VYVJLehoExEP5lMgo--AKg)n(a(v-OuLw)s(IGQ)'a(e5hCRw)s(FkA)))s(s(TDQ)b(sluy4Iw0gS9QrfTlzXwWX3GfaEhH8-SwNUXlnr2BXTjrTFM4C5nnkf_MIt8x1NenTOWOEbtWEHTxE21xbQ)'s(qdI)b(IrYeKy3K4q0fO-Kztikoz5pXiipKUBOeS7ZWvlmlSubJR5nqikA7oTHq5jkDFWwewLRJp911tyclPCR158YtmpesVFY3KESL-rZXNwHw)'s(KKk)b(dWblnhHq))m(0))/1_index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS E FECHADOS",TV GUARA-MA 
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS E FECHADOS",TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+
+
+                       RELIGIOSO
+
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO", GOSPEL CARTOON
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO", REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",TV EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+
+                        FUTEBOL
+
+#EXTINF:-1 tvg-logo="" group-title="FUTEBOL",
+
+#EXTINF:-1 tvg-logo="" group-title="FUTEBOL", ESPN BRASIL ALT
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_480_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FUTEBOL", ESPN BRASIL HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="" group-title="FUTEBOL", ESPN 2 BRASIL HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="" group-title="FUTEBOL",SPORTV HD
+https://bit.ly/3vgrvcs
+#EXTINF:-1 tvg-logo="" group-title="FUTEBOL",SPORTV 2 HD
+https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/8uivez2xwc4h8.m3u8?s=ZR7zbfKOWKSxJZcNbFQddw&e=1615164312
+
+#EXTINF:-1 tvg-logo="" group-title="FUTEBOL",FOX SPORTS 2 HD
+http://69.162.89.182:8081/live/esporte_foxsports2/chunks.m3u8?nimblesessionid=4240472&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjEgNjo0MjoyNiBQTSZoYXNoX3ZhbHVlPVVKTHpMZUFKcEg5OFNiN2VrYjVwUHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1 tvg-logo="" group-title="FUTEBOL",FOX SPORTS
+http://69.162.89.182:8081/live/esporte_foxsports/chunks.m3u8?nimblesessionid=4240060&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjEgNjozMzozMyBQTSZoYXNoX3ZhbHVlPVFBaVJ1V3c2OTdHR2RDZjRkaTMwQnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1 tvg-logo="" group-title="FUTEBOL",PREMIERE 2
+http://69.162.89.182:8081/live/esporte_premiere2/chunks.m3u8?nimblesessionid=4241621&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjEgNzowNDoyNyBQTSZoYXNoX3ZhbHVlPUFCd0FueWVod1ZHWlFWTXZSUTgyVGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+ 
+#EXTINF:-1 tvg-logo="" group-title="FUTEBOL",PREMIERE CLUBES                            
+http://69.162.89.182:8081/live/esporte_premiereclubes/chunks.m3u8?nimblesessionid=4256469&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjEgOTo1Mjo1NyBQTSZoYXNoX3ZhbHVlPVZONWthak5OdjIzYkpweGdRc1lLMnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+
+
+
+
+
+
+  DESENHO
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHO",
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHO",
+
+
+
+                                DOCUMENTARIO
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIOS", 
+
+
+                FILMES GRAVADOS
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES GRAVADOS", 
+
+
+
+
+                                    RADIOS
+
+#EXTINF:-1 tvg-logo="" group-title="RADIOS ",REGGAE
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RADIOS ",ROCK
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RADIOS ",POP
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RADIOS ",FORRO
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RADIOS ",PAGODE
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RADIOS ",SERTANEJO
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title=" ", 
+
+#EXTINF:-1 tvg-logo="" group-title="BRASIL", 
+
+#EXTINF:-1 tvg-logo="" group-title="BRASIL", 
